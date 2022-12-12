@@ -83,7 +83,7 @@ function App() {
 
 
 <div className='footer-container'>
-  <h3>Created By Sakshi <a href='https://github.com/sakshi-rah/play-fun'>@Source Code</a> </h3>
+  <h3>Created By Sakshi | <a href='https://github.com/sakshi-rah/play-fun'>@Source Code</a> </h3>
 </div>
 
 
